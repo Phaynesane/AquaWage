@@ -4,9 +4,9 @@
       <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
         <div class="text-center navbar-brand-wrapper d-flex align-items-top justify-content-center">
           <a class="navbar-brand brand-logo" href="index.vue">
-            <img src="assets/images/logo/logos.png" alt="AquaWage" /> </a>
+            <img src="assets/images/logo/logo.png" alt="AquaWage" /> </a>
           <a class="navbar-brand brand-logo-mini" href="index.vue">
-            <img src="assets/images/logo/logos.png" alt="Aquawage" /> </a>
+            <img src="assets/images/logo/logo.png" alt="Aquawage" /> </a>
         </div>
         <div class="navbar-menu-wrapper d-flex align-items-center">
           <ul class="navbar-nav">
@@ -182,7 +182,7 @@
               <div class="collapse" id="auth">
                 <ul class="nav flex-column sub-menu">
                   <li class="nav-item">
-                    <a class="nav-link" href="pages/samples/blank-page.html"> Profile </a>
+                    <a class="nav-link" href="../views/Login/Profile.vue"> Profile </a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="pages/samples/login.html"> Login </a>

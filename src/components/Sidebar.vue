@@ -84,10 +84,10 @@
      <div class="collapse" id="auth">
        <ul class="nav flex-column sub-menu">
          <li class="nav-item">
-           <a class="nav-link" href="pages/samples/blank-page.html"> Profile </a>
+           <a class="nav-link" href="../views/Login/Profile.vue"> Profile </a>
          </li>
          <li class="nav-item">
-           <a class="nav-link" href="pages/samples/login.html"> Login </a>
+           <a class="nav-link" href="views/Login/Login.vue"> Login </a>
          </li>
          <li class="nav-item">
            <a class="nav-link" href="pages/samples/register.html"> Register </a>
