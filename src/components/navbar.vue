@@ -67,10 +67,10 @@
       </li>
       <li class="nav-item dropdown d-none d-xl-inline-block user-dropdown">
         <a class="nav-link dropdown-toggle" id="UserDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
-          <img class="img-xs rounded-circle" src="assets/images/face/face1.jpg" alt="Profile image"> </a>
+          <img class="img-xs rounded-circle" src="@/assets/images/face/face1.jpg" alt="Profile image"> </a>
         <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="UserDropdown">
           <div class="dropdown-header text-center">
-            <img class="img-md rounded-circle" src="assets/images/face/face1.jpg" alt="Profile image">
+            <img class="img-md rounded-circle" src="@/assets/images/face/face1.jpg" alt="Profile image">
             <p class="mb-1 mt-3 font-weight-semibold">Reanne Martinez</p>
             <p class="font-weight-light text-muted mb-0">ReanneMartinez@gmail.com</p>
           </div>
