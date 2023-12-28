@@ -27,9 +27,9 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'root',
-        'password'     => '',
-        'database'     => 'aqua',
+        'username'     => 'u262559041_aqua_wage',
+        'password'     => 'Aqua.Wage.DB.101',
+        'database'     => 'u262559041_aqua',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
