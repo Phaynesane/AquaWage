@@ -6,7 +6,7 @@ import { loadFonts } from './plugins/webfontloader'
 import axios from 'axios'
 import 'vuetify/dist/vuetify.min.css';
 
-axios.defaults.baseURL = 'http://aqua.test/';
+axios.defaults.baseURL = 'https://aquawage.online/aquawage/';
 
 loadFonts()
 
