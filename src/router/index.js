@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
 import SigninViews from '@/views/SigninViews.vue';
 import SignupViews from '@/views/SignupViews.vue';
 
@@ -18,11 +17,6 @@ import AdminAttendance from '../components/Admin/AdminAttendance.vue';
 import SignupForm from '../components/Admin/SignupForm.vue';
 
 const routes = [
-  {
-    path: '/',
-    name: 'home',
-    component: HomeView
-  },
 
   {
     path: '/signin',
